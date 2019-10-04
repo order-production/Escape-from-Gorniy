@@ -70,4 +70,4 @@ label start:
         b "/me достал дилдон"
         centered "Нормальное окончание."
     return
-## https://clck.ru/GaY2o
+## https://clck.ru/GaY2o 
